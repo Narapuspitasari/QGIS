@@ -1,0 +1,44 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="Author">narapuspitasari</MDI>
+    <MDI key="Created">2026-02-25T22:26:20</MDI>
+    <MDI key="Creator">QGIS 3.40.4-Bratislava</MDI>
+    <MDI key="Keywords"></MDI>
+    <MDI key="Producer">QGIS 3.40.4-Bratislava</MDI>
+    <MDI key="Subject"></MDI>
+    <MDI key="Title"></MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">205.76627361563</MDI>
+      <MDI key="STATISTICS_STDDEV">56.733392243282</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">216.17895114007</MDI>
+      <MDI key="STATISTICS_STDDEV">58.148976783082</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">209.91756351792</MDI>
+      <MDI key="STATISTICS_STDDEV">61.368878936692</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
